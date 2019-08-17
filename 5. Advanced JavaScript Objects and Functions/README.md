@@ -1,6 +1,6 @@
-#5. Advanced JavaScript Objects and Functions
+# 5. Advanced JavaScript Objects and Functions
 
-##3. Everything Is an Object Inheritance and the Prototype Chain
+## 3. Everything Is an Object Inheritance and the Prototype Chain
 
 - JavaScript *Everything is an Object*
 - JavaScript have 2 data types:
